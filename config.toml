@@ -1,0 +1,11 @@
+siteTitle = "Blog by Sean Cha"
+siteDescr = "Coder & Cinephile, HKUST"
+siteAuthor = "Sean Cha"
+
+siteGithubUrl = "github.com/tea1528"
+siteEmailUrl = "scha@connect.ust.hk"
+siteLinkedIn = "linkedin.com/tea1528"
+
+googleAnalyticsId = ""
+
+linkPrefix = "/gatsby-starter-lumen"
