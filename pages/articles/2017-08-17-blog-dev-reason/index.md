@@ -30,7 +30,30 @@ As a result, thanks to [this article on Medium](https://medium.freecodecamp.org/
 
 As for the theme of this blog, I used Gatsby blog starter from [this repo](https://github.com/tea1528/gatsby-starter-lumen).
 
-***
+## Disqus (Updated on Aug, 22)
+[Disqus](https://disqus.com/) is a great tool for implementing comment system into your website easily. If you log into Disqus, you will find that Disqus provides numerous platform for installation. Unfortunately, they don't seem to support Gatsby yet and [universal embed code](https://help.disqus.com/customer/portal/articles/472097-universal-embed-code) isn't relevant as it directly handles DOM element (not allowed in React).
+
+As a result, I have looked into some of the react components for Disqus:
+- [most famous one: react-disqus-thred](https://github.com/mzabriskie/react-disqus-thread)
+- [similar version](https://www.npmjs.com/package/react-disqus-comments)
+- [modified version](https://github.com/konsumer/gatsby-starter-drunkenblog/blob/master/components/Disqus.js)
+- [one I used](https://github.com/kriasoft/react-starter-kit/blob/master/docs/recipes/how-to-integrate-disqus.md)
+
+I made a new component using the link above and named the folder Comments.
+
+<br/>
+
+```javascript
+import { config } from 'config';
+
+const SHORTNAME = config.disqusShortname;
+const WEBSITE_URL = config.blogUrl;
+```
+<br/>
+
+I replaced shortName and website_url using by creating disqusShortname and blogUrl in the config.toml file.
+
+
 
 ## Deployment
 I had two options for deployment, surge.sh and Netlify. I first tried using surge.sh and it was incredibly fast in deploying the website. However, it was quite inconvenient in that it didn't link with Github repository directly.

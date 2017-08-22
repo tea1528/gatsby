@@ -25,7 +25,7 @@ However, I realized that Excel has different rule for line break and it would no
 <br/>
 
 <figure class="floatCenter">
-	<img style="height: 100px; " src="./DataTables1.jpg" alt="DataTables1">
+	<img style="height: 300px; " src="./DataTables1.jpg" alt="DataTables1">
   <figcaption>Description record contains newline character "\n"</figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ exportOptions:
 }
 ```
 
-You might be wondering why I have added another replace statement with a lot of regular expression.
+You might be wondering why I have added another replace function with a lot of regular expression.
 
 Basically, DataTables plugin strips away all the HTML tag within `<td>` tag. However, by using format option, we must strip away the tag by ourselves.
 To do so, I referred to [this link](https://m.datatables.net/forums/discussion/43143/formating-data-when-exporting-to-excel-returns-data-with-html-code) to strip HTML tags.
@@ -77,6 +77,14 @@ customize: function( xlsx ) {
 In the above code, by adding s attribute with style 55 (wrapped text) to all the row, I was able to successfully break line for my exported Excel file.
 
 <br/>
+
+<figure class="floatCenter">
+	<img style="height: 400px; " src="./DataTables2.jpg" alt="DataTables2">
+  <figcaption>Wrap Text button selected automatically</figcaption>
+</figure>
+
+<br/>
+
 
 This example demonstrates the quirk of Excel styling but taught me some good lesson on JavaScript export functionality.
 

@@ -3,6 +3,7 @@ import moment from 'moment';
 import { Link } from 'react-router';
 import { prefixLink } from 'gatsby-helpers';
 import { config } from 'config';
+import DisqusThread from '../Comments';
 import ReadNext from '../ReadNext';
 import './style.css';
 import '../../static/css/highlight.css';
@@ -37,6 +38,12 @@ class SitePost extends React.Component {
                 <br /> <strong>{config.siteAuthor}</strong> on Github
               </a>
             </p>
+            <br />
+            <DisqusThread
+              id={post.date}
+              title={post.title}
+              path={route.page.path}
+            />
           </div>
         </div>
       </div>
