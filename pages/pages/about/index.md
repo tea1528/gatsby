@@ -14,10 +14,12 @@ I will be updating some development related topics and translate trending tech t
 
 Thanks.
 
+[Resume](./resume/Sean_Cha_CV.pdf)
+
 <hr/>
 
 홍콩 소재 대학에서 컴퓨터 공학을 전공 중인 학생입니다.
 
 개발 관련 주제를 주로 올릴 예정이고 흥미로운 기사가 있으면 한국어로도 번역해서 올릴 예정입니다.
 
-감사합니다. 
+감사합니다.
