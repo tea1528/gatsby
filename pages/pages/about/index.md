@@ -14,7 +14,7 @@ I will be updating some development related topics and translate trending tech t
 
 Thanks.
 
-[Resume](./resume/Sean_Cha_CV.pdf)
+[Resume](./Sean_Cha_CV.pdf)
 
 <hr/>
 
