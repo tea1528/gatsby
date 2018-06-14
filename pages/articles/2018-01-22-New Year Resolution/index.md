@@ -12,7 +12,7 @@ I had gone through a lot in 2017. I finally came back to the university after 2 
 I've gone through several interviews for Investment Banks in Hong Kong. After a series of interview, I was finally accepted to [Morgan Stanley](https://www.morganstanley.com/people-opportunities/students-graduates/programs/technology/summer-analyst-asia-pacific) as a summer analyst and will be joining the technology team.  
 
 ## So it's 2018...
-On the first day of 2018, I took a 15 hours long flight to US. It's been almost 7 years since last visited North America. I am currently on semester exchange to [Vanderbilt University](https://www.vanderbilt.edu/) which is located in Nashville, US. It has been three weeks since I arrived here and lot has happened. I am taking some interesting Computer courses that heavily uses Github unlike HKUST. I also joined a research project here in Vanderbilt and will be learning more about machine learning. I will write an another post about my project in the future.
+On the first day of 2018, I took a 15 hours long flight to US. It's been almost 7 years since last visited North America. I am currently on semester exchange to [Vanderbilt University](https://www.vanderbilt.edu/) which is located in Nashville, US. It has been three weeks since I arrived here and lot has happened. I am taking some interesting Computer courses that heavily uses Github unlike HKUST. I also joined a [research project](https://my.vanderbilt.edu/aivaslab/) here in Vanderbilt and will be learning more about machine learning. I will write an another post about my project in the future.
 
 <br/>
 

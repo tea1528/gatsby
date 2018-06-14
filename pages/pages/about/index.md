@@ -4,6 +4,8 @@ layout: page
 path: "/about"
 ---
 
+[View Sean's Resume](Sean_Cha_CV.pdf)
+
 I'm an undergraduate student studying Computer Engineering in HK.
 
 I was born in Seoul and lived in Canada, Philippines, Hong Kong, and Lebanon.
@@ -13,8 +15,6 @@ I am currently focused on web development and also have great interest in A.I. a
 I will be updating some development related topics and translate trending tech topics to Korean.
 
 Thanks.
-
-[Resume](./Sean_Cha_CV.pdf)
 
 <hr/>
 

@@ -5,8 +5,9 @@ siteAuthor = "Sean Cha"
 siteGithubUrl = "https://github.com/tea1528"
 siteEmailUrl = "scha@connect.ust.hk"
 siteLinkedIn = "https://linkedin.com/in/sean-cha"
+siteResume = "/pages/about/Sean_Cha_CV.pdf"
 
-googleAnalyticsId = ""
+googleAnalyticsId = "UA-120813906-1"
 
 linkPrefix = "/gatsby-starter-lumen"
 blogUrl = "https://seancha.netlify.com"

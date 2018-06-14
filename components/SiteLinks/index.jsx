@@ -24,9 +24,19 @@ class SiteLinks extends React.Component {
           )}
           {config.siteLinkedIn && (
             <li>
-              <a href={config.siteLinkedIn}><i className="fa fa-linkedin" /></a>
+              <a href={config.siteLinkedIn}>
+                <i className="fa fa-linkedin" />
+              </a>
             </li>
           )}
+          {config.siteResume && (
+            <li>
+              <a href={config.siteResume}>
+                <i className="fa fa-paperclip" />
+              </a>
+            </li>
+          )}
+
         </ul>
       </div>
     );
