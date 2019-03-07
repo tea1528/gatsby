@@ -8,9 +8,9 @@ path: "/about"
 
 I'm an undergraduate student studying Computer Engineering in HK.
 
-I was born in Seoul and lived in Canada, Philippines, Hong Kong, and Lebanon.
+I was born in Seoul and lived in Canada, Philippines, Hong Kong, USA, and Lebanon.
 
-I am currently focused on web development and also have great interest in A.I. and FinTech.
+I have great interest in Machine Learning, Computer Vision, and NLP.
 
 I will be updating some development related topics and translate trending tech topics to Korean.
 
