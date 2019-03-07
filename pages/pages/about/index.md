@@ -12,7 +12,7 @@ I was born in Seoul and lived in Canada, Philippines, Hong Kong, USA, and Lebano
 
 I have great interest in Machine Learning, Computer Vision, and NLP.
 
-I will be updating some development related topics and translate trending tech topics to Korean.
+I will be updating some development related topics and translating trending tech topics to Korean.
 
 Thanks.
 
